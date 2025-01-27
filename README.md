@@ -157,7 +157,7 @@ Explore abaixo o portfólio completo e descubra o poder da IA para o seu negóci
     - **Tecnologia:** Google Gemini 2.0, RAG
     - **Categoria:** 🧑‍💻 **Copilotos Inteligentes**
 
-- [![Space](https://img.shields.io/badge/Space-Athena__Audit--Copilot---yellow)](https://huggingface.co/spaces/chaos4455/Athena_Audit-Copilot--) **🧑‍💻 Athena_Audit-Copilot-- - Copiloto de Análise de Auditoria Athena 🧑‍💻**
+- [![Space](https://img.shields.io/badge/Space-Athena__Audit--Copilot---yellow)](https://huggingface.co/spaces/chaos4455/Athena_Audit-Copilot) **🧑‍💻 Athena_Audit-Copilot-- - Copiloto de Análise de Auditoria Athena 🧑‍💻**
     - **Descrição:** Copiloto de análise de arquivos e dados de auditoria. "Athena 🛡️ - ITSM audit Genius - Replika AI Powered Copilot. Created by Elias Andrade | Powered by Google Gemini Flash 1.5". Auditoria de dados facilitada! 🔍
     - **Tecnologia:** Google Gemini Flash 1.5
     - **Categoria:** 🧑‍💻 **Copilotos Inteligentes**
@@ -187,7 +187,7 @@ Explore abaixo o portfólio completo e descubra o poder da IA para o seu negóci
     - **Tecnologia:** Google Gemini 2.0
     - **Categoria:** 🧑‍💻 **Copilotos Inteligentes**
 
-- [![Space](https://img.shields.io/badge/Space-Gemini--2--0--MarkMap--Diagram--Gen--V1--yellow)](https://huggingface.co/spaces/chaos4455/Gemini-2.0-MarkMap-Diagram-Gen-V1--) **🧑‍💻 Gemini-2.0-MarkMap-Diagram-Gen-V1-- - Gerador de Diagramas MarkMap V1 🧑‍💻**
+- [![Space](https://img.shields.io/badge/Space-Gemini--2--0--MarkMap--Diagram--Gen--V1--yellow)](https://huggingface.co/spaces/chaos4455/Gemini-2.0-MarkMap-Diagram-Gen-V1) **🧑‍💻 Gemini-2.0-MarkMap-Diagram-Gen-V1-- - Gerador de Diagramas MarkMap V1 🧑‍💻**
     - **Descrição:** Versão 1 mais simples, mas altamente funcional do gerador de diagramas Markmap. Diagramas rápidos e eficientes! ⚡
     - **Tecnologia:** Google Gemini 2.0
     - **Categoria:** 🧑‍💻 **Copilotos Inteligentes**
@@ -275,7 +275,7 @@ Explore abaixo o portfólio completo e descubra o poder da IA para o seu negóci
 
 ### Projetos Avançados de IA & RAG 🚀
 
-- [![Space](https://img.shields.io/badge/Space-Prometheus--DSSAI--gemini2--cadeia--pensamento---red)](https://huggingface.co/spaces/chaos4455/Prometheus-DSSAI-gemini2-cadeia-pensamento--) **🚀 💬 🔥🚀 Prometheus - Domain Specific Super Generative AI Engine v0.1 - Elias Andrade - Replika AI - Prometheus com Cadeia de Pensamento 🚀**
+- [![Space](https://img.shields.io/badge/Space-Prometheus--DSSAI--gemini2--cadeia--pensamento---red)](https://huggingface.co/spaces/chaos4455/Prometheus-DSSAI-gemini2-cadeia-pensamento) **🚀 💬 🔥🚀 Prometheus - Domain Specific Super Generative AI Engine v0.1 - Elias Andrade - Replika AI - Prometheus com Cadeia de Pensamento 🚀**
     - **Descrição:** Copiloto de IA altamente avançado com RAG avançado e engenharia de prompt de cadeia de pensamento. IA com raciocínio avançado! 🧠
     - **Tecnologia:** Google Gemini 2.0, RAG, Cadeia de Pensamento
     - **Categoria:** 🚀 **IA Avançada/RAG/Sistemas Multi-Agente**
@@ -319,7 +319,7 @@ Explore abaixo o portfólio completo e descubra o poder da IA para o seu negóci
     - **Tecnologia:** Google Gemini Flash Vision
     - **Categoria:** 📸 **Aplicações de Visão Computacional**
 
-- [![Space](https://img.shields.io/badge/Space-AI--Gemini--Flash--img2--analise--rotulo--produto---gray)](https://huggingface.co/spaces/chaos4455/AI-Gemini-Flash-img2-analise-rotulo-produto--) **📸 AI-Gemini-Flash-img2-analise-rotulo-produto-- - Análise de Rótulos de Produtos com Visão Computacional 📸**
+- [![Space](https://img.shields.io/badge/Space-AI--Gemini--Flash--img2--analise--rotulo--produto---gray)](https://huggingface.co/spaces/chaos4455/AI-Gemini-Flash-img2-analise-rotulo-produto) **📸 AI-Gemini-Flash-img2-analise-rotulo-produto-- - Análise de Rótulos de Produtos com Visão Computacional 📸**
     - **Descrição:** POC de visão computacional para análise de rótulos de produtos. Análise de produtos no varejo! 🛒
     - **Tecnologia:** Google Gemini Flash Vision (implícito)
     - **Categoria:** 📸 **Aplicações de Visão Computacional**
@@ -349,7 +349,7 @@ Explore abaixo o portfólio completo e descubra o poder da IA para o seu negóci
     - **Tecnologia:** Google Gemini Flash Vision (implícito)
     - **Categoria:** 📸 **Aplicações de Visão Computacional**
 
-- [![Space](https://img.shields.io/badge/Space-AI--Gemini--Flash--Fauna--Flora--Describer--v1--gray)](https://huggingface.co/spaces/chaos4455/AI-Gemini-Flash-Fauna-Flora-Describer-v1--) **📸 AI-Gemini-Flash-Fauna-Flora-Describer-v1-- - Descritor de Fauna e Flora 📸**
+- [![Space](https://img.shields.io/badge/Space-AI--Gemini--Flash--Fauna--Flora--Describer--v1--gray)](https://huggingface.co/spaces/chaos4455/AI-Gemini-Flash-Fauna-Flora-Describer-v1) **📸 AI-Gemini-Flash-Fauna-Flora-Describer-v1-- - Descritor de Fauna e Flora 📸**
     - **Descrição:** Projeto POC: Análise de visão computacional para identificação de fauna e flora. Identifica espécies etc. Biologia e IA juntas! 🌿
     - **Tecnologia:** Google Gemini Flash Vision (implícito)
     - **Categoria:** 📸 **Aplicações de Visão Computacional**
@@ -388,7 +388,7 @@ Explore abaixo o portfólio completo e descubra o poder da IA para o seu negóci
     - **Tecnologia:** Google Gemini Flash (versão implícita)
     - **Categoria:** 📚 **Ferramentas de Documentação/Geração**
 
-- [![Space](https://img.shields.io/badge/Space-Gemini--Flash--2--0--Tech--Code--Documentation--v2--Tech-cyan)](https://huggingface.co/spaces/chaos4455/Gemini-Flash-2-0-Tech-Code-Documentation-v2-Tech--) **📚 Gemini-Flash-2-0-Tech-Code-Documentation-v2-Tech-- - Documentação Técnica de Código V2 📚**
+- [![Space](https://img.shields.io/badge/Space-Gemini--Flash--2--0--Tech--Code--Documentation--v2--Tech-cyan)](https://huggingface.co/spaces/chaos4455/Gemini-Flash-2-0-Tech-Code-Documentation-v2-Tech) **📚 Gemini-Flash-2-0-Tech-Code-Documentation-v2-Tech-- - Documentação Técnica de Código V2 📚**
     - **Descrição:** Gerador de documentação para treinamento e procedimentos. Fornece tópicos e gera procedimentos, manuais e documentação em loops. Documentação técnica completa e detalhada! 📝
     - **Tecnologia:** Google Gemini Flash 2.0
     - **Categoria:** 📚 **Ferramentas de Documentação/Geração**
@@ -412,12 +412,12 @@ Explore abaixo o portfólio completo e descubra o poder da IA para o seu negóci
     - **Tecnologia:** Google Gemini Flash 2.0, RAG, YAML
     - **Categoria:** 🎭 **Geradores de Persona/Paramset**
 
-- [![Space](https://img.shields.io/badge/Space-Gemini--Flash--2--0--Persona--IA--Generator--v1---orange)](https://huggingface.co/spaces/chaos4455/Gemini-Flash-2-0-Persona-IA-Generator-v1--) **🎭 Gemini-Flash-2-0-Persona-IA-Generator-v1-- - Gerador de Persona IA V1 🎭**
+- [![Space](https://img.shields.io/badge/Space-Gemini--Flash--2--0--Persona--IA--Generator--v1---orange)](https://huggingface.co/spaces/chaos4455/Gemini-Flash-2-0-Persona-IA-Generator-v1) **🎭 Gemini-Flash-2-0-Persona-IA-Generator-v1-- - Gerador de Persona IA V1 🎭**
     - **Descrição:** Gerador de persona YAML. Gera personas altamente complexas em loops para domínios específicos. IA parametriza outras IAs. IA que cria IAs! 🤯
     - **Tecnologia:** Google Gemini Flash 2.0, YAML
     - **Categoria:** 🎭 **Geradores de Persona/Paramset**
 
-- [![Space](https://img.shields.io/badge/Space-Gemini--Flash--2--0--Tech--Ia--Antohology--Generator--v1---orange)](https://huggingface.co/spaces/chaos4455/Gemini-Flash-2-0-Tech-Ia-Antohology-Generator-v1--) **🎭 Gemini-Flash-2-0-Tech-Ia-Antohology-Generator-v1-- - Gerador de Ontologia para IA 🎭**
+- [![Space](https://img.shields.io/badge/Space-Gemini--Flash--2--0--Tech--Ia--Antohology--Generator--v1---orange)](https://huggingface.co/spaces/chaos4455/Gemini-Flash-2-0-Tech-Ia-Antohology-Generator-v1) **🎭 Gemini-Flash-2-0-Tech-Ia-Antohology-Generator-v1-- - Gerador de Ontologia para IA 🎭**
     - **Descrição:** Gerador de ontologia para IA. Organize o conhecimento da sua IA! 📚
     - **Tecnologia:** Google Gemini Flash 2.0
     - **Categoria:** 🎭 **Geradores de Persona/Paramset**
@@ -442,7 +442,7 @@ Explore abaixo o portfólio completo e descubra o poder da IA para o seu negóci
     - **Tecnologia:** Google Gemini Flash Vision (implícito), Visão Computacional
     - **Categoria:** 🎭 **Geradores de Persona/Paramset**
 
-- [![Space](https://img.shields.io/badge/Space-AI--Gemini--Flash--NPC--Persona--Creator---orange)](https://huggingface.co/spaces/chaos4455/AI-Gemini-Flash-NPC-Persona-Creator--) **🎭 Game NPC Character Persona Creator 🎮 - Criador de Persona de Personagem NPC de Jogo 🎮**
+- [![Space](https://img.shields.io/badge/Space-AI--Gemini--Flash--NPC--Persona--Creator---orange)](https://huggingface.co/spaces/chaos4455/AI-Gemini-Flash-NPC-Persona-Creator) **🎭 Game NPC Character Persona Creator 🎮 - Criador de Persona de Personagem NPC de Jogo 🎮**
     - **Descrição:** Criador de persona NPC de jogo. Cria parameter set YAML para definir avatar e persona via input de imagem usando Google Gemini API + prompt engineering. Cria parameter sets YAML e avatares de copiloto/IA com integração de imagens. Crie NPCs de jogo com personalidades únicas! 🕹️
     - **Tecnologia:** Google Gemini Flash Vision (implícito), Visão Computacional, YAML
     - **Categoria:** 🎭 **Geradores de Persona/Paramset**
@@ -481,7 +481,7 @@ Explore abaixo o portfólio completo e descubra o poder da IA para o seu negóci
     - **Tecnologia:** Google Gemini Flash Vision (implícito), Entrada de Imagem
     - **Categoria:** ✨ **Outras Utilidades**
 
-- [![Space](https://img.shields.io/badge/Space-AI--Gemini--Flash--img2--history---cyan)](https://huggingface.co/spaces/chaos4455/AI-Gemini-Flash-img2-history--) **✨ AI-Gemini-Flash-img2-history-- - Gerador de Histórias e Narrativas a partir de Imagens ✨**
+- [![Space](https://img.shields.io/badge/Space-AI--Gemini--Flash--img2--history---cyan)](https://huggingface.co/spaces/chaos4455/AI-Gemini-Flash-img2-history) **✨ AI-Gemini-Flash-img2-history-- - Gerador de Histórias e Narrativas a partir de Imagens ✨**
     - **Descrição:** Analisa imagens e gera histórias e narrativas, copy de vendas, posts de blog, conteúdo para redes sociais, etc. Conteúdo criativo a partir de imagens! ✍️
     - **Tecnologia:** Google Gemini Flash Vision (implícito), Entrada de Imagem
     - **Categoria:** ✨ **Outras Utilidades**
@@ -541,7 +541,7 @@ Explore abaixo o portfólio completo e descubra o poder da IA para o seu negóci
     - **Tecnologia:** Streamlit, Dash
     - **Categoria:** ✨ **Outras Utilidades**
 
-- [![Space](https://img.shields.io/badge/Space-Gemini--Flash--2--0--gerador--proposta--comercial---cyan)](https://huggingface.co/spaces/chaos4455/Gemini-Flash-2-0-gerador-proposta-comercial---) **📚 Gemini-Flash-2-0-gerador-proposta-comercial--- - Gerador de Propostas Comerciais com IA 📚**
+- [![Space](https://img.shields.io/badge/Space-Gemini--Flash--2--0--gerador--proposta--comercial---cyan)](https://huggingface.co/spaces/chaos4455/Gemini-Flash-2-0-gerador-proposta-comercial-) **📚 Gemini-Flash-2-0-gerador-proposta-comercial--- - Gerador de Propostas Comerciais com IA 📚**
     - **Descrição:** Criador de propostas comerciais com IA. Propostas comerciais profissionais e persuasivas! 🤝
     - **Tecnologia:** Google Gemini Flash 2.0
     - **Categoria:** 📚 **Ferramentas de Documentação/Geração**
@@ -551,7 +551,7 @@ Explore abaixo o portfólio completo e descubra o poder da IA para o seu negóci
     - **Tecnologia:** Google Gemini 2.0
     - **Categoria:** 🧑‍💻 **Copilotos Inteligentes**
 
-- [![Space](https://img.shields.io/badge/Space-Gemini--2--0--MarkMap--Diagram--Gen--V1--yellow)](https://huggingface.co/spaces/chaos4455/Gemini-2.0-MarkMap-Diagram-Gen-V1--) **🧑‍💻 Gemini-2-0-MarkMap-Diagram-Gen-V1-- - Gerador de Diagramas MarkMap V1 (Duplicado) 🧑‍💻**
+- [![Space](https://img.shields.io/badge/Space-Gemini--2--0--MarkMap--Diagram--Gen--V1--yellow)](https://huggingface.co/spaces/chaos4455/Gemini-2.0-MarkMap-Diagram-Gen-V1) **🧑‍💻 Gemini-2-0-MarkMap-Diagram-Gen-V1-- - Gerador de Diagramas MarkMap V1 (Duplicado) 🧑‍💻**
     - **Descrição:** Versão 1 do gerador de diagramas Markmap (Entrada duplicada, já listado acima).
     - **Tecnologia:** Google Gemini 2.0
     - **Categoria:** 🧑‍💻 **Copilotos Inteligentes**
