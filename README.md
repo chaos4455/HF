@@ -71,6 +71,52 @@
    <img src="https://img.shields.io/badge/600+-MicroApps-red?style=flat-square" alt="MicroApps Count"/>
 </p>
 
+# Explore um Universo de Projetos de IA com Streamlit e Gemini! 🚀
+
+Clique no botão abaixo para conferir um showcase impressionante com mais de **600 microprojetos e POCs** (Provas de Conceito) que exploram o uso do Streamlit, integração com IA, e o poder do Google Gemini em aplicações práticas. Descubra como a combinação dessas tecnologias pode transformar a forma como você trabalha e inova!
+
+<a href="https://github.com/chaos4455/Streamlit-IA-Projects-2024" target="_blank">
+<button style="background-color: #f04a4a; color: white; padding: 15px 25px; border: none; border-radius: 5px; cursor: pointer; font-size: 16px; display: block; margin: 20px auto; text-align: center;">
+   🚀  Ver Showcase de +600 Projetos IA com Streamlit  & Gemini 
+</button>
+</a>
+
+
+<div style="border: 3px solid #f04a4a; padding: 20px; background-color: #fbeaea; border-radius: 10px;">
+
+<div style="display: flex; justify-content: space-around; align-items: center;">
+
+<div style="text-align: center;">
+<img src="https://www.gstatic.com/aiux/2/product/gemini/logo/default_2x_80.png" alt="Google Gemini" style="width: 80px; margin-bottom: 10px;">
+<p style="color: #000; font-weight: bold;">Google Gemini</p>
+<span style="font-size: 24px;">🤖</span>
+</div>
+
+
+<div style="text-align: center;">
+<img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="Streamlit" style="width: 80px; margin-bottom: 10px;">
+<p style="color: #4682B4; font-weight: bold;">Streamlit</p>
+<span style="font-size: 24px;">✨</span>
+</div>
+
+
+<div style="text-align: center;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Python" style="width: 80px; margin-bottom: 10px;">
+<p style="color: #36454F; font-weight: bold;">Python</p>
+<span style="font-size: 24px;">🐍</span>
+</div>
+
+
+<div style="text-align: center;">
+<img src="https://cdn-icons-png.flaticon.com/512/3670/3670024.png" alt="Projetos IA" style="width: 80px; margin-bottom: 10px;">
+<p style="color: #f04a4a; font-weight: bold;">Projetos IA</p>
+<span style="font-size: 24px;">💡</span>
+</div>
+
+</div>
+
+</div>
+
 Bem-vindo ao meu portfólio! 👋 Sou Elias Andrade, um profissional apaixonado por tecnologia com mais de 14 anos de experiência em infraestrutura de TI e desenvolvimento de soluções inovadoras. Aqui, você encontrará uma coleção de **mais de 600 microaplicações** desenvolvidas em Streamlit, voltadas para automação de tarefas e inteligência artificial.
 
 ## Sobre Mim 👤  Streamlit Showcase Repository 🌐🚀
