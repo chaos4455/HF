@@ -51,7 +51,7 @@
 ✨ Projeto de IA de última geração para auditoria ITSM! Athena, impulsionada pelo poder do Google Gemini 1.5, redefine a análise e a inteligência em segurança de TI. Um copilot de auditoria ITSM com o poder da Replika AI!
 </p>
 <p align="center">
-🚀  Experimente o impacto da IA para:
+🚀  Acelere negócios com todo o poder da IA com:
 </p>
 
 
