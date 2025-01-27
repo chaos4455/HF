@@ -86,12 +86,6 @@ Clique no botão abaixo para conferir um showcase impressionante com mais de **6
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
 
-<div style="text-align: center;">
-<img src="https://www.gstatic.com/aiux/2/product/gemini/logo/default_2x_80.png" alt="Google Gemini" style="width: 80px; margin-bottom: 10px;">
-<p style="color: #000; font-weight: bold;">Google Gemini</p>
-<span style="font-size: 24px;">🤖</span>
-</div>
-
 
 <div style="text-align: center;">
 <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="Streamlit" style="width: 80px; margin-bottom: 10px;">
@@ -107,10 +101,6 @@ Clique no botão abaixo para conferir um showcase impressionante com mais de **6
 </div>
 
 
-<div style="text-align: center;">
-<img src="https://cdn-icons-png.flaticon.com/512/3670/3670024.png" alt="Projetos IA" style="width: 80px; margin-bottom: 10px;">
-<p style="color: #f04a4a; font-weight: bold;">Projetos IA</p>
-<span style="font-size: 24px;">💡</span>
 </div>
 
 </div>
