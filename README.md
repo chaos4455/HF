@@ -14,6 +14,9 @@
 
 <h3 align="center">Athena 🛡️ - ITSM Help Desk & Service Desk IA Copilot</h3>
 
+![athena_avatar](https://github.com/user-attachments/assets/01190fe7-70dd-43fe-9f62-9a89d99fc1aa)
+
+
 <p align="center">
 🚀 Projeto de IA de ponta para ITSM, elevando o Help Desk e Service Desk a um novo patamar!  Athena, impulsionada pelo Google Gemini 1.5, oferece análise de dados avançada, insights acionáveis e automação inteligente para sua gestão de TI.
 </p>
