@@ -1,75 +1,11 @@
-<!-- Snippet Athena - ITSM Help Desk & Service Desk Copilot -->
-
-<p align="center">
-  <a href="https://huggingface.co/spaces/chaos4455/Athena_ITSM-Copilot">
-    <img src="https://img.shields.io/badge/Space-Hugging%20Face-blue?style=flat-square&logo=huggingface" alt="Hugging Face Space">
-  </a>
-  <a href="https://huggingface.co/spaces/chaos4455/Athena_ITSM-Copilot">
-    <img src="https://img.shields.io/badge/ITSM%20Copilot-Athena%20🛡️-success?style=flat-square" alt="Athena ITSM Copilot">
-  </a>
-   <a href="https://www.google.com/gemini/">
-    <img src="https://img.shields.io/badge/Powered%20by-Gemini%201.5-green?style=flat-square&logo=google-gemini" alt="Powered by Gemini 1.5">
-  </a>
-</p>
-
-<h3 align="center">Athena 🛡️ - ITSM Help Desk & Service Desk IA Copilot</h3>
-
-
-<p align="center">
-🚀 Projeto de IA de ponta para ITSM, elevando o Help Desk e Service Desk a um novo patamar!  Athena, impulsionada pelo Google Gemini 1.5, oferece análise de dados avançada, insights acionáveis e automação inteligente para sua gestão de TI.
-</p>
-
-<p align="center">
-🤖  Experimente o poder da IA para:
-</p>
-
-<ul align="center">
-  <li> 📊 Análise de Dados e Planilhas </li>
-  <li> 💡 Geração de Insights e Relatórios </li>
-  <li> ❓ Respostas Inteligentes e Consultoria </li>
-</ul>
-
-<p align="center">
- Criado por <a href="#">Elias Andrade</a> |  ✨ Estado da Arte em IA para ITSM ✨
-</p>
-
-
-<!-- Snippet Athena - ITSM Audit Genius -->
-
-<p align="center">
-  <a href="https://huggingface.co/spaces/chaos4455/Athena_Audit-Copilot">
-    <img src="https://img.shields.io/badge/Space-Hugging%20Face-blue?style=flat-square&logo=huggingface" alt="Hugging Face Space">
-  </a>
-  <a href="https://huggingface.co/spaces/chaos4455/Athena_Audit-Copilot">
-    <img src="https://img.shields.io/badge/ITSM%20Audit-Athena%20🛡️-success?style=flat-square" alt="Athena ITSM Audit Genius">
-  </a>
-   <a href="https://www.google.com/gemini/">
-    <img src="https://img.shields.io/badge/Powered%20by-Gemini%201.5-green?style=flat-square&logo=google-gemini" alt="Powered by Gemini 1.5">
-  </a>
-</p>
-
-<h3 align="center">Athena 🛡️ - ITSM Audit Genius - Replika AI Powered Copilot</h3>
-
-<p align="center">
-✨ Projeto de IA de última geração para auditoria ITSM! Athena, impulsionada pelo poder do Google Gemini 1.5, redefine a análise e a inteligência em segurança de TI. Um copilot de auditoria ITSM com o poder da Replika AI!
-</p>
-
-<p align="center">
-🚀  Experimente o impacto da IA para:
-</p>
-
-<ul align="center">
-  <li> 📊 Análise Avançada de Dados e Planilhas </li>
-  <li> 🔍 Insights Profundos e Detalhados </li>
-  <li> 🛡️ Auditoria Inteligente e Focada em Segurança </li>
-</ul>
-
-<p align="center">
- Criado por Elias Andrade | Versão v0001 Showcase |  🔥 Estado da Arte em IA para Auditoria ITSM 🔥
-</p>
-
-
 ## 🚀 Hugging Face Spaces - Replika AI - Elias Andrade 🤖
+
+![c7017985-f380-4eb3-b44b-6e118e4f2cf5](https://github.com/user-attachments/assets/399e2aa0-4169-4c63-a122-08a1628d94e8)
+
+![Gemini_SS width-1300](https://github.com/user-attachments/assets/b5d4ba81-33cc-4ed1-a880-a236e40d88fd)
+
+![streamlit_hero](https://github.com/user-attachments/assets/9039d17e-11df-48e0-9a50-89a3f3eaac0b)
+
 
 Esta é uma lista selecionada de aplicações web Streamlit criadas por Elias Andrade (Replika AI) no Hugging Face Spaces. Estas aplicações, construídas com Python e rodando sem Docker, demonstram diversas capacidades de IA impulsionadas pelo Google Gemini AI (2.0 e 1.5).
 
