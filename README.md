@@ -1,6 +1,12 @@
 ## 🚀 Hugging Face Spaces - Replika AI - Elias Andrade 🤖
 
 
+![c7017985-f380-4eb3-b44b-6e118e4f2cf5](https://github.com/user-attachments/assets/399e2aa0-4169-4c63-a122-08a1628d94e8)
+
+
+![Gemini_SS width-1300](https://github.com/user-attachments/assets/b5d4ba81-33cc-4ed1-a880-a236e40d88fd)
+
+
 <!-- Snippet Athena - ITSM Help Desk & Service Desk Copilot -->
 <p align="center">
   <a href="https://huggingface.co/spaces/chaos4455/Athena_ITSM-Copilot">
@@ -48,10 +54,6 @@
 🚀  Experimente o impacto da IA para:
 </p>
 
-
-![c7017985-f380-4eb3-b44b-6e118e4f2cf5](https://github.com/user-attachments/assets/399e2aa0-4169-4c63-a122-08a1628d94e8)
-
-![Gemini_SS width-1300](https://github.com/user-attachments/assets/b5d4ba81-33cc-4ed1-a880-a236e40d88fd)
 
 ![streamlit_hero](https://github.com/user-attachments/assets/9039d17e-11df-48e0-9a50-89a3f3eaac0b)
 
